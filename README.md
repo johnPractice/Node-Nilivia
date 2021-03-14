@@ -1,7 +1,8 @@
 # In name of Allah
 
 ## Introduction
-We want a simple trivia game backend. In this game users will be matched together to play a trivia like game, it works like this:
+Here in [Nilva](https://nilva.ir) we love to play trivia games for our gatherings, so to get to know us better, we want you to develop a trivia game.
+Simply put, we want a simple trivia game backend. In this game users will be matched together to play a trivia like game, it works like this:
 they need to answer 10 questions containing a text and 4 choices for answer, each question can be answered in maximum of 10 seconds. The winner will be chosen based on two parameters:
 1. correct answer count: this is the priority in choosing the winner
 2. time to answer: if two players answered the questions equally, the faster one will be the winner.
