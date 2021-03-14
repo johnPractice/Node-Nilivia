@@ -34,4 +34,4 @@ So What does matter to us?
 6. Send us a pull request, we will review and get back to you
 7. Enjoy
 
-**Finally** don't be afraid to ask anything from us.
+**Finally** don't be afraid to ask anything from us. You can ask your questions by creating issues.
